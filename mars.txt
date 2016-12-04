@@ -2,4 +2,5 @@ Hi, this is the mars textfile.
 It´s cold and red.
 And it´s nice.
 A new line added.
-Now, we are goint to set up the repository!!
+Now, we are goint to set up the repository!! <-- Here I am. lookin at Mars.
+
