@@ -3,5 +3,5 @@ It´s cold and red.
 And it´s nice.
 A new line added.
 Now, we are goint to set up the repository!!
-This row is written by Kristjan !!! 
+This row is written by Kristjan !!!  Now again changed.
 changed line
