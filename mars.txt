@@ -1,3 +1,4 @@
 Hi, this is the mars textfile.
 It´s cold and red.
 And it´s nice.
+A new line added.
