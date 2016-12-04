@@ -4,3 +4,4 @@ And it´s nice.
 A new line added.
 Now, we are goint to set up the repository!!
 This row is written by Kristjan !!! 
+changed line
