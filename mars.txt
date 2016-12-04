@@ -1,6 +1,10 @@
-Hi, this is the mars textfile.
+Hi, this is the mars file // this line changed by Kristjan
 It´s cold and red.
 And it´s nice.
 A new line added.
 Now, we are goint to set up the repository!! <-- Here I am. lookin at Mars.
+Now, we are goint to set up the repository!!
+This row is written by Kristjan !!!  Now again changed.
+changed line
+
 
